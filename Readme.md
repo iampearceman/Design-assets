@@ -24,35 +24,26 @@
   
 </div>
 
-
-  <p align="center">
-    
-  <br/>
-
-    ·
-    <a href="https://github.com/novuhq/novu/discussions">Request Feature</a>
-    ·
-  <a href="https://discord.gg/TT6TttXjRe">Join Our Discord</a>
-    ·
-    <a href="https://blog.novu.co/">Read our blog</a>
-  </p>
+&nbsp;
+&nbsp;
+&nbsp;
   
 <div align="center">
   
-  [![Logo Light](https://github.com/pearceman/Design-assets/blob/main/Add%20a%20heading%20(17).png?raw=true)](#)
+  [![Logo Light](https://github.com/pearceman/Design-assets/blob/main/why.png?raw=true)](#)
   
 </div>
 
-## ✨ Features
+&nbsp;
+&nbsp;
+&nbsp;
 
-- 🌈 Single API for all messaging providers (Email, SMS, Push, Direct)
-- 💅 Easily manage notification over multiple channels
-- 🚀 Equipped with a CMS for advanced layouts and design management
-- 🛡 Built-in protection for missing variables
-- 📦 Easy to set up and integrate
-- 📦 Embeddable notification center with real-time updates
-- 🛡 Debug and analyze multi channel messages in a single dashboard
-- 👨‍💻 Community driven
+<div align="center">
+  
+  [![Logo Light](https://github.com/pearceman/Design-assets/blob/main/Features%20(1).png?raw=true)](#)
+  
+</div>
+
 
 # Novu API & Admin panel (alpha)
 We are excited to launch the complete Novu API and admin panel. Want to give it a test before the official release? here is how:
