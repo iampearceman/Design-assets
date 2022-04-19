@@ -12,13 +12,19 @@
   
 </div>
 
+<div align="center"  >
+
+ <a href="https://docs.novu.co/">![Logo Light](https://github.com/pearceman/Design-assets/blob/main/twitter%20icon.png?raw=true)</a> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/company/novuco/">![Logo Light](https://github.com/pearceman/Design-assets/blob/main/twitter%20icon%20(1).png?raw=true)</a> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://discord.gg/TT6TttXjRe">![Logo Light](https://github.com/pearceman/Design-assets/blob/main/discord%20icon.png?raw=true)</a>
+  
+</div>
+
 
   <p align="center">
-    <br />
-    <a href="https://docs.novu.co" ><strong>Explore the docs »</strong></a>
-    <br />
+    
   <br/>
-    <a href="https://github.com/novuhq/novu/issues">Report Bug</a>
+
     ·
     <a href="https://github.com/novuhq/novu/discussions">Request Feature</a>
     ·
