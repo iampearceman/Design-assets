@@ -8,14 +8,14 @@
 <div align="center" >
   
   [![Logo Light](https://github.com/pearceman/Design-assets/blob/main/output-onlinegiftools%20(13).gif?raw=true)](#)
-  <a href="https://docs.novu.co/" target="_blank">![Logo Light](https://github.com/pearceman/Design-assets/blob/main/Explore%20the%20docs.png?raw=true)</a>
+  <a href="https://docs.novu.co/" rel="dofollow">![Logo Light](https://github.com/pearceman/Design-assets/blob/main/Explore%20the%20docs.png?raw=true)</a>
   
 </div>
 
 
   <p align="center">
     <br />
-    <a href="https://docs.novu.co" rel="dofollow"><strong>Explore the docs »</strong></a>
+    <a href="https://docs.novu.co" ><strong>Explore the docs »</strong></a>
     <br />
   <br/>
     <a href="https://github.com/novuhq/novu/issues">Report Bug</a>
