@@ -32,8 +32,9 @@ The ultimate service for managing multi-channel notifications with a single API.
     <a href="https://blog.novu.co/">Read our blog</a>
   </p>
   
-## ⭐️ Why
-Building a notification system is hard, at first it seems like just sending an email but in reality it's just the beginning. In today's world users expect multi channel communication experience over email, sms, push, direct and more... An ever growing list of providers are popping up each day, and notifications are spread around the code. Novu's goal is to simplify notifications and provide developers the tools to create meaningful communication between the system and it's users.
+<div align="center">
+  ![Logo Light](https://github.com/pearceman/Design-assets/blob/main/Add%20a%20heading%20(17).png?raw=true)
+</div>
 
 ## ✨ Features
 
