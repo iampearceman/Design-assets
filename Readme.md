@@ -11,10 +11,14 @@
   <a href="https://docs.novu.co/" rel="dofollow">![Logo Light](https://github.com/pearceman/Design-assets/blob/main/Explore%20the%20docs.png?raw=true)</a>
   
 </div>
-
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
 <div align="center"  >
 
- <a href="https://docs.novu.co/">![Logo Light](https://github.com/pearceman/Design-assets/blob/main/twitter%20icon.png?raw=true)</a> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://twitter.com/Novuhq">![Logo Light](https://github.com/pearceman/Design-assets/blob/main/twitter%20icon.png?raw=true)</a> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.linkedin.com/company/novuco/">![Logo Light](https://github.com/pearceman/Design-assets/blob/main/twitter%20icon%20(1).png?raw=true)</a> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://discord.gg/TT6TttXjRe">![Logo Light](https://github.com/pearceman/Design-assets/blob/main/discord%20icon.png?raw=true)</a>
   
