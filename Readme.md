@@ -7,16 +7,10 @@
 
 <div align="center">
   
-  ![Logo Light](https://github.com/pearceman/Design-assets/blob/main/Add%20a%20heading%20(13).png?raw=true)
+  [![Logo Light](https://github.com/pearceman/Design-assets/blob/main/output-onlinegiftools%20(13).gif?raw=true)](#)
   
 </div>
 
-
-<h1 align="center">Notification management simplified.</h1>
-
-<div align="center">
-The ultimate service for managing multi-channel notifications with a single API. 
-</div>
 
   <p align="center">
     <br />
