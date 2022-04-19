@@ -5,10 +5,10 @@
   
 </div>
 
-<div align="center">
+<div align="center" >
   
   [![Logo Light](https://github.com/pearceman/Design-assets/blob/main/output-onlinegiftools%20(13).gif?raw=true)](#)
-  [![Logo Light](https://github.com/pearceman/Design-assets/blob/main/Explore%20the%20docs.png?raw=true)](https://docs.novu.co)
+  <a href="https://docs.novu.co/" target="_blank">![Logo Light](https://github.com/pearceman/Design-assets/blob/main/Explore%20the%20docs.png?raw=true)</a>
   
 </div>
 
