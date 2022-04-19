@@ -34,7 +34,7 @@ The ultimate service for managing multi-channel notifications with a single API.
   
 <div align="center">
   
-  ![Logo Light](https://github.com/pearceman/Design-assets/blob/main/Add%20a%20heading%20(17).png?raw=true)
+  [![Logo Light](https://github.com/pearceman/Design-assets/blob/main/Add%20a%20heading%20(17).png?raw=true)](#)
   
 </div>
 
